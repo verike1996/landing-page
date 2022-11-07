@@ -1,0 +1,12 @@
+header,
+body,
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+header,
+footer,
+.main {
+    background-color: #1F2937;
+}
