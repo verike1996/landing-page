@@ -10,3 +10,13 @@ footer,
 .main {
     background-color: #1F2937;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.icon-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
